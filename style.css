@@ -1,0 +1,76 @@
+body
+{
+    border: 0;
+    margin: 0;
+    text-align: center;
+    background-color: ivory;
+}
+h1
+{
+    border: 0;
+    margin: 0%;
+    padding: 2%;
+    background-color: orange;
+    font-family: 'Belanosima', sans-serif;font-size: 250%;
+}
+h2
+{
+    padding-top: 0.6%;
+    font-family: 'Bungee Spice', sans-serif;
+}
+h3
+{
+    font-family: 'Gabarito', sans-serif;font-size: 180%;
+}
+#d
+{
+    font-family: 'Gabarito', sans-serif;
+    color: mediumblue;
+}
+#c
+{
+    color: indigo;
+    font-family: 'Righteous', sans-serif;
+}
+.get
+{
+    margin-left: 34%;
+    padding: 3%;
+    text-align: left;
+}
+button{
+    font-size: 250%;
+    margin-top:5%;
+    font-family: 'Pixelify Sans', sans-serif;
+    background-color: rgb(255, 0, 128);
+    border-radius: 7px;
+    color: rgb(255, 251, 0);
+}
+#height
+{
+    font-size: 150%;border-radius: 8px;
+}
+#weight
+{
+    font-size: 150%;border-radius: 8px;
+}
+
+.res
+{   font-size: 220%;
+    border-top: 3%;
+    padding-bottom: 0;
+}
+.res p
+{
+font-size: 120%;
+}
+
+button
+{
+    box-shadow: 3px 3px 3px 0 pink;
+    cursor:grab;
+    transition: transform 0.2s;
+}
+button:hover {
+    transform: scale(1.1);
+}
